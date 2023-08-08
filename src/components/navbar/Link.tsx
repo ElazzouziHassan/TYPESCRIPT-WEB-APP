@@ -1,8 +1,12 @@
 import React from 'react'
 
-function Link() {
+
+
+const Link = () => {
   return (
-    <div>Link</div>
+    <>
+      <h1>LINKS</h1>
+    </>
   )
 }
 
