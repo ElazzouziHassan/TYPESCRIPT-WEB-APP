@@ -4,7 +4,9 @@ function App() {
 
   return (
     <>
-      <h1>React Web App With TypeScript.</h1>  
+      <div className="app bg-gray-20">
+        <h1>My web app!</h1>
+      </div>
     </>
   )
 }
