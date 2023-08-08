@@ -1,3 +1,4 @@
+import Home from "./components/home"
 
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
       <div className="app bg-gray-20">
         <h1>My web app!</h1>
+        <Home/>
       </div>
     </>
   )
